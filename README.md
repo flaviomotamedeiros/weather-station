@@ -1,4 +1,4 @@
-# weather-station
+ # weather-station
 A react native app to show weather information.
 
 # To run this project, follow the next steps:
@@ -21,6 +21,7 @@ information and presents the weather forecast for that location.
 
 (3) At anytime, you can click the update button to update the forecast information.
 
-![alt text](https://github.com/flaviomotamedeiros/weather-station/blob/main/screenshots/screenshot01.jpg?raw=true)
+<br>
 
-![alt text](https://github.com/flaviomotamedeiros/weather-station/blob/main/screenshots/screenshot02.jpg?raw=true)
+<img src="https://github.com/flaviomotamedeiros/weather-station/blob/main/screenshots/screenshot01.jpg" width="200">
+<img src="https://github.com/flaviomotamedeiros/weather-station/blob/main/screenshots/screenshot02.jpg" width="200">
