@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`weather info renders activity indicator when loading data 1`] = `
+<ActivityIndicator
+  color="#fff"
+  size="large"
+  style={
+    Object {
+      "backgroundColor": "#808B96",
+      "flex": 1,
+    }
+  }
+/>
+`;

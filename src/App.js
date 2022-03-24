@@ -20,7 +20,6 @@ const App = () => {
       (position) => {
         setLat(position.coords.latitude);
         setLng(position.coords.longitude);
-        console.log(position.coords)
         setLoading(false);
       },
       (error) => {

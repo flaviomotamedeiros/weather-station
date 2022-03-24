@@ -1,3 +1,5 @@
+import fetch from 'node-fetch'; 
+
 const OW_URL = 'https://api.openweathermap.org/data/2.5/weather';
 const OW_API_KEY = process.env['OPEN_WEATHER_API_KEY'];
 
