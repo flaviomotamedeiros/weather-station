@@ -20,3 +20,7 @@ OPEN_WEATHER_API_KEY: your Open Weather API Key
 information and presents the weather forecast for that location.
 
 (3) At anytime, you can click the update button to update the forecast information.
+
+![alt text](https://github.com/flaviomotamedeiros/weather-station/blob/main/screenshots/screenshot01.jpg?raw=true)
+
+![alt text](https://github.com/flaviomotamedeiros/weather-station/blob/main/screenshots/screenshot02.jpg?raw=true)
